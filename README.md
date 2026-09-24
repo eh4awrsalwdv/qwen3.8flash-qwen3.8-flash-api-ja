@@ -2,7 +2,7 @@
 
 > 従量課金、最低 1 ドルから、OpenAI 互換エンドポイント。 **input $0.0914; cached_input $0.0114; explicit_cached_input $0.0114**
 
-**[模型页](https://apimart.ai/model) · [实时价格](https://apimart.ai/pricing) · [获取 API Key](https://apimart.ai/keys)**
+**[模型页](https://go.apimart.ai/k-ce1390) · [实时价格](https://go.apimart.ai/k-b88c52) · [获取 API Key](https://go.apimart.ai/k-24829a)**
 
 ## 料金（快照 2026-09-24）
 
